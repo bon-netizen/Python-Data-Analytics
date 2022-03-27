@@ -47,4 +47,4 @@ Grab this opportunity and prepare yourself for the future.
 # Contact
 
 Website : [Bon's GitHub](https://github.com/bon-netizen/)  
-LinkedIn : [Bon's LinkedIn](https://www.linkedin.com/in/bon-lee-699a8a213/)  
+LinkedIn : [Bon's LinkedIn](https://www.linkedin.com/in/bon-netizen/)  
